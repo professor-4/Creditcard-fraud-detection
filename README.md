@@ -3,7 +3,9 @@ Credit card fraud detection - the challenge is to recognize fraudulent credit ca
 
 ## Table of Content
   *[Overview](#Overview)
+  
   *[Algorithm](#Algorithm)
+  
   *[Data](#Data) 
   
 ### Overview
