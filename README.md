@@ -15,5 +15,6 @@ we are going to use in this project two Machine learning algorithms.
   2. Isolation Forest Algorithm
   
 ### Data
+![Image of credit](https://github.com/professor-4/Creditcard-fraud-detection/blob/master/pic/credit.JPG)
 Link: [https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud/)
 
